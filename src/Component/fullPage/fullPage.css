@@ -1,0 +1,504 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+  }
+  
+  
+  .logo {
+    color: #fff;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+
+  .About {
+    margin-right: 40px;
+    color: #fff;
+  }
+
+  .SWit {
+    margin-right: 40px;
+    color: #fff;
+  }
+
+  .StartUps {
+      margin-right: 40px;
+      color: #fff;
+  }
+
+  .Sponsor {
+      margin-right: 40px;
+      color: #fff;
+  }
+
+
+  .navbar-links {
+    font-size: 1rem;
+    margin-right: 1110px;
+  }
+
+  .navbar-button1 {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+
+  .navbar-button2 {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+
+  .navbar-button3 {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  
+  .navbar-button4 {
+    background-color: #fff;
+    color: #000;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .navbar-buttons {
+    font: bold;
+  }
+
+  .second-nav {
+    display: flex;
+  }
+
+  .move-h1 {
+    margin-left: 350px;
+    margin-top: 150px;
+    background-color: #000;
+  }
+
+  .go {
+    color: #fff;
+    font-size: 3.1rem;
+    font: bolder;
+  }
+
+  .p1 {
+    color: #fff;
+    font-size: 1.2rem;
+  }
+
+  .input1 {
+    padding: 12px;
+    padding-left: 10px;
+    padding-right: 12%;
+    border-radius: 10px;
+  }
+
+  .input2 {
+    padding: 12px;
+    padding-left: 10px;
+    padding-right: 12%;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+
+  .move-button1 {
+    color: #000;
+    padding: 12px;
+    padding-left: 25px;
+    padding-right: 30px;
+    margin-top: 25px;
+    border-radius: 10px;
+  }
+
+  .move-image1 {
+    margin-left: 650px;
+    margin-top: -500px;
+  }
+
+  .full-nav {
+    background-color: #000;
+  }
+
+  .move-image2 {
+    margin-left: 350px;
+    margin-top: 30px;
+  }
+
+  .move-sec-session {
+    margin-left: 750px;
+    margin-top: -450px;
+  }
+
+  .drive {
+    font-size: 3.1rem;
+    color: #000;
+  }
+
+  .p2 {
+    color: #000;
+    font-size: 1.2rem;
+  }
+
+  .get-started {
+    padding: 12px;
+    background-color: #000;
+    color: #fff;
+    padding-left: 25px;
+    padding-right: 30px;
+    border-radius: 10px;
+  }
+
+  .have-account {
+    color: #000;
+    font-size: 1.1rem;
+    margin-left: 20px;
+  }
+
+  .move-sec-session2 {
+    margin-left: 2px;
+    margin-top: 300px;
+  }
+
+  .the-uber {
+    color: #000;
+    font-size: 3.1rem;
+  }
+
+  .p3 {
+    color: #000;
+    font-size: 1.2rem;
+  }
+
+  .get-started2 {
+    padding: 12px;
+    background-color: #000;
+    color: #fff;
+    padding-left: 25px;
+    padding-right: 30px;
+    border-radius: 10px;
+  }
+
+  .check-solution {
+    color: #000;
+    font-size: 1.1rem;
+    margin-left: 20px;
+  }
+
+  .move-image3 {
+    margin-left: 690px;
+    margin-top: -500px;
+  }
+
+  .third-border {
+    border:1px solid #f0eaea;
+    background-color: #f0eaea;
+    padding: 50px;
+    margin-top: 70px;
+    height: 400px;
+  }
+
+  .fouth-border {
+    border: 1px solid #fff;
+    background-color: #fff;
+    width: 595px;
+    height: 200px;
+  }
+
+  .style-h1 {
+    font-size: 2.3rem;
+  }
+
+  .move-all-qr {
+    margin-left: 300px;
+  }
+
+  .move-qr-download {
+    margin-left: 200px;
+    margin-top: -100px;
+  }
+
+  .download {
+    font-size: x-large;
+    color: #000;
+  }
+
+  .p4 {
+    font-size: 1.2rem;
+    color: #000;
+  }
+
+  .fifth-border {
+    border: 1px solid #fff;
+    background-color: #fff;
+    width: 580px;
+    height: 200px;
+    margin-left: 680px;
+    margin-top: -200px;
+  }
+
+  .move-qr-download2 {
+    margin-left: 200px;
+    margin-top: -100px;
+  }
+
+  .download2 {
+    font-size: x-large;
+    color: #000;
+  }
+
+  .p5 {
+    font-size: 1.2rem;
+    color: #000;
+  }
+  
+  .sixth-border {
+    border: 1px solid #000;
+    background-color: #000;
+    height: 900px;
+  }
+
+  h2 {
+    color: #fff;
+  }
+
+  .style-link1 {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.1rem;
+  }
+
+  .style-link2 {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.1rem;
+  }
+
+  .style-link3 {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.1rem;
+  }
+
+  .style-link4 {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.1rem;
+  }
+
+  .move-all-first-link {
+    margin-left: 400px;
+    margin-top: 100px;
+    font-size: 1.1rem;
+  }
+
+  .move-company {
+    margin-left: 400px;
+    margin-top: 100px;
+  }
+
+  .move-product {
+    margin-left: 720px;
+    margin-top: -250px;
+  }
+
+  .move-global {
+    margin-left: 970px;
+    margin-top: -150px;
+  }
+
+  .move-Travel {
+    margin-left: 1280px;
+    margin-top: -80px;
+  }
+
+  .help {
+    color: #fff;
+  }
+
+  .about {
+    color: #fff;
+  }
+
+  .offering {
+    color: #fff;
+  }
+
+  .newsroom {
+    color: #fff;
+  }
+
+  .investors {
+    color: #fff;
+  }
+
+  .blog {
+    color: #fff;
+  }
+
+  .careers {
+    color: #fff;
+  }
+
+  .ai {
+    color: #fff;
+  }
+
+  .giftcard {
+    color: #fff;
+  }
+
+  .ride {
+    color: #fff;
+  }
+
+  .driven {
+    color: #fff;
+  }
+
+  .eat {
+    color: #fff;
+  }
+
+  .uber-freight {
+    color: #fff;
+  }
+
+  .safety {
+    color: #fff;
+  }
+
+  .diversity {
+    color: #fff;
+  }
+
+  .reserve {
+    color: #fff;
+  }
+
+  .airport {
+    color: #fff;
+  }
+
+  .cities {
+    color: #fff;
+  }
+
+  .move-facebook {
+    margin-left: 390px;
+    margin-top: 150px;
+  }
+
+  .move-twitter {
+    margin-left: 490px;
+    margin-top: -42px;
+  }
+
+  .move-youtube {
+    margin-left: 600px;
+    margin-top: -42px;
+  }
+
+  .move-linkedIn {
+    margin-left: 699px;
+    margin-top: -42px;
+  }
+
+  .linkedIn {
+    width: 43px;
+  }
+
+  .move-instagram {
+    margin-left: 795px;
+    margin-top: -42px;
+  }
+
+  .move-the-button {
+    margin-left: 1350px;
+    margin-top: -58px;
+  }
+
+  .loca-button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+  }
+
+  .move-eng-button {
+    margin-left: 1295px;
+    margin-top: -35px;
+  }
+
+  .eng-button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+  }
+
+  .move-play-button {
+    margin-left: 384px;
+    margin-top: 70px;
+  }
+
+  .play-button {
+    background-color: #000;
+    border: none;
+  }
+
+  .move-apple-button {
+    margin-left: 530px;
+    margin-top: -70px;
+  }
+
+  .apple-button {
+    background-color: #000;
+    border: none;
+  }
+  
+  @media (max-width: 767px) {
+    .navbar {
+      flex-direction: column; 
+      align-items: center; 
+    }
+  
+    .navbar-logo {
+      margin-bottom: 20px; /* Add space below logo */
+    }
+  
+    .navbar-links {
+      margin-bottom: 20px; /* Add space below links */
+    }
+  
+    .second-nav {
+      flex-direction: column; /* Stack second-nav items vertically */
+      align-items: center; /* Center items horizontally */
+    }
+  
+    .move-h1 {
+      padding: 20px; /* Add padding around content */
+    }
+  
+    .move-image1 img {
+      max-width: 100%; /* Ensure images resize properly */
+    }
+  
+    /* Add similar adjustments for other sections as needed */
+  }
+  
